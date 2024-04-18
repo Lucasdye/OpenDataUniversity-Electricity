@@ -1,5 +1,5 @@
 # OpenDataUniversity-ElectricityProduction-
-Python made map that represents in different shades of blue the electric production capacity in France by regions.
+Python made map that represents in different shades of blue the electric production capacity in France by regions in 2008.
 
 Depedencies: jupyter notebook ; pandas ; numpy ; geopandas ; matplotlib.pyplot ; matplotlib.ticker.
 
