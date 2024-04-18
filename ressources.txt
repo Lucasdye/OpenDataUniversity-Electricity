@@ -1,0 +1,2 @@
+- libraries panda (tables), matplotlib (afficher graph), numpy (faire des statistiques). 
+- Jupyter 
