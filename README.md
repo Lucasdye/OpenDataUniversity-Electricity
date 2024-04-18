@@ -2,7 +2,7 @@
 Python made map that represents in different shades of blue the electric production capacity in France by regions.
 
 Depedencies: jupyter notebook ; pandas ; numpy ; geopandas ; matplotlib.pyplot ; matplotlib.ticker.
-Just tap 'jupyter notebook' to open the .ipynb from the directory in terminal.
+To visualize the code content and it's output, just tap from the terminal 'jupyter notebook' in this repository to open the .ipynb.
 
 
 
